@@ -1,0 +1,38 @@
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.Resources.resources
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\bin\Debug\TwainLib.dll
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TwainLib\bin\Debug\TwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TwainLib\obj\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\bin\Debug\TwainLib.dll
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\bin\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\bin\Debug\TwainLib.xml
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.vbprojResolveAssemblyReference.cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.vbproj.CoreCompileInputs.cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.xml
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TwainLib\obj\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\bin\Debug\TwainLib.dll
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\bin\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\bin\Debug\TwainLib.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.vbprojResolveAssemblyReference.cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.Resources.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.vbproj.GenerateResource.Cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.vbproj.CoreCompileInputs.cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.dll
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TwainLib\obj\Debug\TwainLib.pdb

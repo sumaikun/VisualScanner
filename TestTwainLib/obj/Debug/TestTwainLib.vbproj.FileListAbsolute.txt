@@ -1,0 +1,66 @@
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.exe
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TwainLib.dll
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TwainLib.pdb
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\bin\Debug\TwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\ResolveAssemblyReference.cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.Form1.resources
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.Resources.resources
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.vbproj.GenerateResource.Cache
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.exe
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.xml
+F:\my documents\work\Alwusool\projects_under_development\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.exe
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.exe
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TwainLib.dll
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TwainLib.pdb
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TwainLib.xml
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.Form1.resources
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.Resources.resources
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\obj\Debug\TestTwainLib.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\TwainLib\TestTwainLib\bin\Debug\TestTwainLib.exe.config
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.exe.config
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.exe
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.pdb
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.xml
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TwainLib.dll
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TwainLib.xml
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.vbprojResolveAssemblyReference.cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.Form1.resources
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.Resources.resources
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.vbproj.GenerateResource.Cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.vbproj.CoreCompileInputs.cache
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.exe
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.xml
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.pdb
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.exe.manifest
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.application
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.exe.manifest
+C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.application
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe.config
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe.manifest
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.application
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.dll
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbprojResolveAssemblyReference.cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Form1.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Form2.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Resources.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbproj.GenerateResource.Cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbproj.CoreCompileInputs.cache
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.exe.manifest
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.application
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.exe
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.pdb
