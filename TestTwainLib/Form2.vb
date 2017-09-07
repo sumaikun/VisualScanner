@@ -2,7 +2,11 @@
 Imports System.Net
 
 Public Class Form2
+    Dim host As String = System.Net.Dns.GetHostName()
+    Dim LocalHostaddress As String = System.Net.Dns.GetHostByName(host).AddressList(0).ToString()
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        post_data()
         Dim filepath As String
         filepath = System.IO.Path.GetTempPath & "Cedula_caraA.jpg"
         If My.Computer.FileSystem.FileExists(filepath) Then
@@ -15,9 +19,13 @@ Public Class Form2
         Dim fs As New IO.FileStream(System.IO.Path.GetTempPath & "Cedula_caraA.jpg", IO.FileMode.Open, IO.FileAccess.Read)
         PictureBox1.Image = Image.FromStream(fs)
         fs.Close()
+
+        post_image("Cedula_caraA.png", "Cedula_caraA.jpg")
+
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        post_data()
         Dim filepath As String
         filepath = System.IO.Path.GetTempPath & "Cedula_caraB.jpg"
         If My.Computer.FileSystem.FileExists(filepath) Then
@@ -30,9 +38,13 @@ Public Class Form2
         Dim fs As New IO.FileStream(System.IO.Path.GetTempPath & "Cedula_caraB.jpg", IO.FileMode.Open, IO.FileAccess.Read)
         PictureBox2.Image = Image.FromStream(fs)
         fs.Close()
+
+        post_image("Cedula_caraB.png", "Cedula_caraB.jpg")
+
     End Sub
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
+        post_data()
         Dim filepath As String
         filepath = System.IO.Path.GetTempPath & "tarjeta_credito.jpg"
         If My.Computer.FileSystem.FileExists(filepath) Then
@@ -45,10 +57,13 @@ Public Class Form2
         Dim fs As New IO.FileStream(System.IO.Path.GetTempPath & "tarjeta_credito.jpg", IO.FileMode.Open, IO.FileAccess.Read)
         PictureBox3.Image = Image.FromStream(fs)
         fs.Close()
+
+        post_image("tarjeta_credito.png", "tarjeta_credito.jpg")
     End Sub
 
 
-    Private Function post_images()
+    Private Function post_data()
+        'JESUS VEGA This is an example of how request must be doned on vb, this class is not on production'
         ' Create a request using a URL that can receive a post. 
         Dim request As WebRequest = WebRequest.Create("http://app.aoacolombia.com/Control/operativo/controllers/RecepcionController.php")
         ' Set the Method property of the request to POST.
@@ -82,8 +97,8 @@ Public Class Form2
         ' Read the content.
         Dim responseFromServer As String = reader.ReadToEnd()
         ' Display the content.
-        Console.WriteLine(responseFromServer)
-        MessageBox.Show(responseFromServer, "My Application", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk)
+        'Console.WriteLine(responseFromServer)'
+        'MessageBox.Show(responseFromServer, "My Application", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk)'
         ' Clean up the streams.
         reader.Close()
         dataStream.Close()
@@ -91,9 +106,9 @@ Public Class Form2
         Return response
     End Function
 
-    Private Function post_image()
+    Private Function post_image(fname As String, ffile As String)
         Dim boundary As String = "-----------------------------" & DateTime.Now.Ticks.ToString("x")
-        Dim FileName = "Visual_Image.png"
+        Dim FileName = fname
         Dim request As HttpWebRequest = CType(WebRequest.Create("http://app.aoacolombia.com/Control/operativo/controllers/RecepcionController.php"), HttpWebRequest)
         request.Method = "POST"
         request.ContentType = "multipart/form-data; boundary=" & "---------------------------" & DateTime.Now.Ticks.ToString("x")
@@ -108,9 +123,9 @@ Public Class Form2
 
         Dim _Buffer() As Byte = Nothing
         Dim ImageData As System.Drawing.Image
-        Dim fs As New IO.FileStream(System.IO.Path.GetTempPath & "Cedula_caraA.jpg", IO.FileMode.Open, IO.FileAccess.Read)
+        Dim fs As New IO.FileStream(System.IO.Path.GetTempPath & ffile, IO.FileMode.Open, IO.FileAccess.Read)
         Dim _BinaryReader As New System.IO.BinaryReader(fs)
-        Dim _TotalBytes As Long = New System.IO.FileInfo(System.IO.Path.GetTempPath & "Cedula_caraA.jpg").Length
+        Dim _TotalBytes As Long = New System.IO.FileInfo(System.IO.Path.GetTempPath & ffile).Length
         _Buffer = _BinaryReader.ReadBytes(CInt(Fix(_TotalBytes)))
 
 
@@ -120,7 +135,7 @@ Public Class Form2
         fs.Close()
         builder.Append(encoded)
         builder.Append(vbCrLf)
-        builder.Append(boundary & vbCrLf & "Content-Disposition: form-data; name=""save""" & vbCrLf & vbCrLf & "save")
+        builder.Append(boundary & vbCrLf & "Content-Disposition: form-data; name=""privateip""" & vbCrLf & vbCrLf & LocalHostaddress)
         ' Footer Bytes
         Dim close As Byte() = System.Text.Encoding.UTF8.GetBytes("--")
         Dim postHeader As String = builder.ToString()
@@ -150,9 +165,7 @@ Public Class Form2
         Return response
     End Function
 
-    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
-        Dim response = post_image().ToString
-        MessageBox.Show(response, "My Application", MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk)
 
-    End Sub
+
+
 End Class

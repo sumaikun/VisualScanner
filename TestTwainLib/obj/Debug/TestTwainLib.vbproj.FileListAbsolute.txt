@@ -44,23 +44,23 @@ C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\Twa
 C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\bin\Debug\TestTwainLib.application
 C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.exe.manifest
 C:\Users\JVega\Documents\Proyecto_recepcion\Documentación\Accessing Twain 3\TwainLib\Source Code\TestTwainLib\obj\Debug\TestTwainLib.application
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe.config
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe.manifest
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.application
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.exe
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.pdb
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TestTwainLib.xml
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.dll
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.pdb
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\TwainLib.xml
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbprojResolveAssemblyReference.cache
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Form1.resources
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Form2.resources
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.Resources.resources
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbproj.GenerateResource.Cache
 C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.vbproj.CoreCompileInputs.cache
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.exe.manifest
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.application
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.exe
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.xml
-C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\TestTwainLib.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.exe.config
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.exe.manifest
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.application
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.exe
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.pdb
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\bin\Debug\Recepcionprueba.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.Form1.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.Form2.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.Resources.resources
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.exe.manifest
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.application
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.exe
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.xml
+C:\Users\JVega\Documents\VisualProjects\Recepcion_scaner\TestTwainLib\obj\Debug\Recepcionprueba.pdb
